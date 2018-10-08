@@ -1,2 +1,0 @@
-# ProbaForGit
-git studing
